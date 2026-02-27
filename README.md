@@ -40,7 +40,7 @@ Developed Python scripts to perform cost-analysis for last-mile logistics. Impro
 
 ### 📈 Activity & Impact
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitchandwai&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchandwai&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitchandwai&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
