@@ -47,5 +47,5 @@ Developed Python scripts to perform cost-analysis for last-mile logistics. Impro
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-chandwani-2b0b1a225/">LinkedIn</a> • 
   <a href="mailto:chandwanimohit87m@gmail.com">Email</a> • 
-  <a href="https://leetcode.com/Mohit-Chandwani">LeetCode</a>
+  <a href="https://leetcode.com/u/mohitchanwani/">LeetCode</a>
 </p>
